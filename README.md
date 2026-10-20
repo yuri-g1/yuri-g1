@@ -1,19 +1,8 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Yuri%20Gabriel&fontSize=52&fontColor=F0F6FC&fontAlignY=55" />
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Yuri%20Gabriel&fontSize=52&fontColor=1F2328&fontAlignY=55" height="90" alt="Yuri Gabriel" />
   </picture>
-</p>
-
-<p align="center">
-  <a href="https://yuri-g1.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" /><img src="assets/link-portfolio-light.svg" height="28" alt="Portfolio" /></picture></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yuri-g1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg" /><img src="assets/link-linkedin-light.svg" height="28" alt="LinkedIn" /></picture></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:yuri.vincitore@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg" /><img src="assets/link-email-light.svg" height="28" alt="Email" /></picture></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://yuri-g1.github.io/cv/Yuri_Gabriel_Resume_EN.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-cv-dark.svg" /><img src="assets/link-cv-light.svg" height="28" alt="CV" /></picture></a>
 </p>
 
 <p align="center">
