@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33732974/README.md)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Yuri%20Gabriel&fontSize=52&fontColor=F0F6FC&fontAlignY=55" />
