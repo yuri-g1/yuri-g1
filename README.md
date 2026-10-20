@@ -1,4 +1,3 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Yuri%20Gabriel&fontSize=52&fontColor=F0F6FC&fontAlignY=55" />
@@ -14,19 +13,23 @@
 </p>
 
 <p align="center">
-  <a href="https://yuri-g1.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/world.svg?color=%23fdc903" /><img src="https://api.iconify.design/tabler/world.svg?color=%238a6d00" height="15" alt="" /></picture> <ins>Portfolio</ins></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yuri-g1"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/brand-linkedin.svg?color=%23fdc903" /><img src="https://api.iconify.design/tabler/brand-linkedin.svg?color=%238a6d00" height="15" alt="" /></picture> <ins>LinkedIn</ins></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yuri.vincitore@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/mail.svg?color=%23fdc903" /><img src="https://api.iconify.design/tabler/mail.svg?color=%238a6d00" height="15" alt="" /></picture> <ins>Email</ins></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://yuri-g1.github.io/cv/Yuri_Gabriel_Resume_EN.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/file-cv.svg?color=%23fdc903" /><img src="https://api.iconify.design/tabler/file-cv.svg?color=%238a6d00" height="15" alt="" /></picture> <ins>CV</ins></a>
+  <a href="https://yuri-g1.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" /><img src="assets/link-portfolio-light.svg" height="28" alt="Portfolio" /></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yuri-g1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg" /><img src="assets/link-linkedin-light.svg" height="28" alt="LinkedIn" /></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yuri.vincitore@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg" /><img src="assets/link-email-light.svg" height="28" alt="Email" /></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://yuri-g1.github.io/cv/Yuri_Gabriel_Resume_EN.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-cv-dark.svg" /><img src="assets/link-cv-light.svg" height="28" alt="CV" /></picture></a>
 </p>
 
 <p align="center">
-  I build web solutions and full products for remote teams in Romania, Norway and the Netherlands,<br />
-  from the Figma file to production. On the side I test APIs until they break.
+  I'm a Software Developer building production web applications with React, Next.js, Node.js and TypeScript for companies in Europe since 2023. I've
+delivered 10+ web solutions for clients of a Romanian agency, built the entire front-end of a Norwegian fintech lending platform for banks, and built
+interfaces for a Norwegian EdTech platform used by children and teachers. My work spans front-end and back-end, and my QA background means I
+ship software that is tested, accessible and fast. English (fluent), Portuguese (native).
 </p>
+
+<br />
 
 <h3 align="center">Stack</h3>
 
@@ -34,16 +37,20 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,nodejs,mysql,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Three.js, Node.js, MySQL, HTML, CSS" />
 </p>
 
+<br />
+
 <h3 align="center">GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-g1&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=121211&title_color=FDC903&text_color=F3F3F1" height="180" alt="Most used languages" />
-  <img src="https://streak-stats.demolab.com?user=yuri-g1&hide_border=true&border_radius=12&background=121211&ring=FDC903&fire=FDC903&currStreakNum=F3F3F1&currStreakLabel=FDC903&sideNums=F3F3F1&sideLabels=A3A39D&dates=A3A39D&stroke=2A2A27" height="180" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-g1&layout=donut&langs_count=6&card_width=495&hide_border=true&border_radius=12&bg_color=121211&title_color=FDC903&text_color=F3F3F1" width="49%" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=yuri-g1&card_width=545&card_height=215&hide_border=true&border_radius=12&background=121211&ring=FDC903&fire=FDC903&currStreakNum=F3F3F1&currStreakLabel=FDC903&sideNums=F3F3F1&sideLabels=A3A39D&dates=A3A39D&stroke=2A2A27" width="49%" alt="Contribution streak" />
 </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/FDC903/yuri-g1" width="100%" alt="Contribution calendar" />
 </p>
+
+<br />
 
 <h3 align="center">Recent work</h3>
 
