@@ -26,7 +26,7 @@
 <h3 align="center">GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-g1&layout=compact&langs_count=6&card_width=355&hide_border=true&border_radius=12&bg_color=121211&title_color=FDC903&text_color=F3F3F1" width="49%" alt="Most used languages" />
+
   <img src="https://streak-stats.demolab.com?user=yuri-g1&hide_border=true&border_radius=12&background=121211&ring=FDC903&fire=FDC903&currStreakNum=F3F3F1&currStreakLabel=FDC903&sideNums=F3F3F1&sideLabels=A3A39D&dates=A3A39D&stroke=2A2A27" width="49%" alt="Contribution streak" />
 </p>
 
