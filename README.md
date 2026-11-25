@@ -37,5 +37,5 @@
 <p align="center">
   <a href="https://snoozy-lp.vercel.app/"><b>Snoozy</b></a>: Chrome extension that tracks time per site and nudges you when a break turns into procrastination.<br />
   <b>SAP Validator</b>: Node.js and Playwright automation that checks SAP invoices with OCR.<br />
-  <a href="https://github.com/yuri-g1/yuri-g1.github.io"><b>yuri-g1.github.io</b></a>: my bilingual portfolio in React and TypeScript.
+  <a href="https://yourshelf-xi.vercel.app/"><b>YourShelf/b></a>: One shelf for everything you love: movies, games, books and albums. Friends can recommend what you should try.
 </p>
