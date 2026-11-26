@@ -4,15 +4,6 @@
 
 ---
 
-### 💼 Experience
-- **Vasonim** (Bucharest, Romania · Remote) — Full Stack Developer · *Jan 2023 – Present*
-- **Symetrisk** (Oslo, Norway · Remote) — Front-end Developer · *Feb 2025 – Jun 2026*
-  Sole front-end developer of a B2B credit platform for banks, now in production.
-- **Langory** (Oslo, Norway · Remote) — Front-end Developer & QA · *Oct 2024 – Oct 2025*
-  Reading platform for kids (5–12) and their teachers.
-
----
-
 ### 🎓 Education
 - **B.Sc. in Software Engineering**, Unicesumar (expected 2030)
 ---
