@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuri Gabriel
 
-I'm a **full stack engineer**. For 4 years I've remotely shipped complete landing pages and products for international companies in Romania, Norway, the Netherlands and beyond. Along the way, I've also done a lot of system development and maintenance, API integration and database modeling.
+I'm a **full stack engineer**. For 4 years I've remotely shipped complete products for international companies in Romania, Norway, the Netherlands and beyond. Along the way, I've also done a lot of system development and maintenance, API integration and database modeling.
 
 ---
 
@@ -17,11 +17,11 @@ I'm a **full stack engineer**. For 4 years I've remotely shipped complete landin
 ---
 
 ### 👨🏻‍💻 What I do
-- Build complete front-ends for complex products: at **Symetrisk** I was the sole front-end developer of a credit platform connecting banks, borrowers and credit analysts, owning **20+ screens** from design to production.
+- Build complete front-ends for complex products, like the credit platform at **Symetrisk** connecting banks, borrowers and credit analysts.
 - Take features from idea to production, working with product and design to turn business rules into clear, usable interfaces.
-- Work closely with the back-end on performance and API design, such as server-side pagination that cut a key search from **6s to 2.5s**.
+- Make apps fast at every layer: server-side pagination, caching and CDNs, SSR/SSG, code splitting and lazy loading, like a key search cut from **6s to 2.5s**.
 - Ship software that is tested, accessible and fast, from API and regression testing to Lighthouse and WCAG audits.
-- Build Node.js back-ends and integrations at **Vasonim**: CMS webhooks driving on-demand Next.js revalidation, Google Places API, and automation tools client teams use every day.
+- Design and build back-ends with Node.js: REST APIs, database modeling, authentication, webhooks and third-party integrations, plus automation tools teams use every day.
 
 ---
 
