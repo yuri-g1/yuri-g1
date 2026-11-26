@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Yuri Gabriel
 
-**Full Stack Developer** from Rio de Janeiro, Brazil (UTC-3), building production web apps with **React, Next.js, Node.js and TypeScript** for European companies since 2023. Today I work full-time at **Vasonim**, a Romanian web agency, where I've shipped 10+ sites and web apps end to end, from Node.js back-ends to 500+ page websites.
-
----
-
-### 🎓 Education
-- **B.Sc. in Software Engineering**, Unicesumar (expected 2030)
+I'm a **full stack engineer**. For 4 years I've remotely shipped complete landing pages and products for international companies in Romania, Norway, the Netherlands and beyond. Along the way, I've also done a lot of system development and maintenance, API integration and database modeling.
 
 ---
 
@@ -23,9 +18,9 @@
 
 ### 👨🏻‍💻 What I do
 - Build complete front-ends for complex products: at **Symetrisk** I was the sole front-end developer of a credit platform connecting banks, borrowers and credit analysts, owning **20+ screens** from design to production.
-- Turn financial data into product features, like credit metrics (Equity Ratio, NIBD-to-EBITDA, Interest Coverage) calculated from public company registers, with filters to screen clients.
+- Take features from idea to production, working with product and design to turn business rules into clear, usable interfaces.
 - Work closely with the back-end on performance and API design, such as server-side pagination that cut a key search from **6s to 2.5s**.
-- Keep quality high with a QA mindset: weekly regression testing that caught **100+ API permission bugs**, later automated with Playwright, plus production hotfixes on AWS.
+- Ship software that is tested, accessible and fast, from API and regression testing to Lighthouse and WCAG audits.
 - Build Node.js back-ends and integrations at **Vasonim**: CMS webhooks driving on-demand Next.js revalidation, Google Places API, and automation tools client teams use every day.
 
 ---
@@ -43,3 +38,8 @@
 [![Portfolio](https://img.shields.io/badge/-yuri--g1.github.io-1F2328?style=flat-square&logo=github&logoColor=white)](https://yuri-g1.github.io)
 
 🗣️ Portuguese (native) · English (C1)
+
+---
+
+### 🎓 Education
+- **B.Sc. in Software Engineering**, Unicesumar (expected 2030)
