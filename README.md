@@ -15,8 +15,6 @@
 
 ### 🎓 Education
 - **B.Sc. in Software Engineering**, Unicesumar (expected 2030)
-- **Certifications:** Claude Code 101 and Model Context Protocol: Advanced Topics (Anthropic) · Introduction to Cybersecurity (Cisco)
-
 ---
 
 ### 💻 Tech & Tools
@@ -32,11 +30,11 @@
 ---
 
 ### 👨🏻‍💻 What I do
-- Raised mobile Lighthouse Performance from **~40 to 90+** across every template of a 500+ page site with 3D elements.
-- Built the full UI of a fintech lending platform: **20+ screens** for banks, borrowers and credit analysts.
-- Found **100+ API permission bugs** through weekly regression testing, then automated API tests with Playwright.
-- Cut borrower list search and load from **6s to 2.5s** with debounce and server-side pagination.
-- Built Node.js back-ends with Contentful webhooks and on-demand Next.js revalidation (pages update within 5s).
+- Build complete front-ends for complex products: at **Symetrisk** I was the sole front-end developer of a credit platform connecting banks, borrowers and credit analysts, owning **20+ screens** from design to production.
+- Turn financial data into product features, like credit metrics (Equity Ratio, NIBD-to-EBITDA, Interest Coverage) calculated from public company registers, with filters to screen clients.
+- Work closely with the back-end on performance and API design, such as server-side pagination that cut a key search from **6s to 2.5s**.
+- Keep quality high with a QA mindset: weekly regression testing that caught **100+ API permission bugs**, later automated with Playwright, plus production hotfixes on AWS.
+- Build Node.js back-ends and integrations at **Vasonim**: CMS webhooks driving on-demand Next.js revalidation, Google Places API, and automation tools client teams use every day.
 
 ---
 
@@ -53,8 +51,3 @@
 [![Portfolio](https://img.shields.io/badge/-yuri--g1.github.io-1F2328?style=flat-square&logo=github&logoColor=white)](https://yuri-g1.github.io)
 
 🗣️ Portuguese (native) · English (C1)
-
----
-
-### 📊 Stats
-<img src="https://streak-stats.demolab.com?user=yuri-g1&hide_border=true&border_radius=12&background=121211&ring=FDC903&fire=FDC903&currStreakNum=F3F3F1&currStreakLabel=FDC903&sideNums=F3F3F1&sideLabels=A3A39D&dates=A3A39D&stroke=2A2A27" width="49%" alt="Contribution streak" />
