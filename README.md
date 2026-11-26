@@ -34,7 +34,7 @@ I'm a **full stack engineer**. For 4 years I've remotely shipped complete produc
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-Yuri%20Gabriel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-g1/)
-[![Gmail](https://img.shields.io/badge/-yuri.vincitore%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:yuri.vincitore@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuri.vincitore@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-yuri--g1.github.io-1F2328?style=flat-square&logo=github&logoColor=white)](https://yuri-g1.github.io)
 
 🗣️ Portuguese (native) · English (C1)
