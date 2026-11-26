@@ -6,6 +6,7 @@
 
 ### 🎓 Education
 - **B.Sc. in Software Engineering**, Unicesumar (expected 2030)
+
 ---
 
 ### 💻 Tech & Tools
